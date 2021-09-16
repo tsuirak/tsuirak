@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsuirak&theme=buefy&layout=compact"/> -->
 
-### 薇尔莉特 👋
+### Hello 👋
 
-- 🌱 I’m currently learning java
-- 📫 How to reach me: tsuirak@126.com
+- 🌱 现在正在学习Java
+- 📫 联系方式：tsuirak@126.com
