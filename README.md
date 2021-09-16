@@ -17,7 +17,5 @@ Here are some ideas to get you started:
 
 ### 薇尔莉特 👋
 
-- :orange_book: Focusing on Springboot
-<!-- - :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN -->
-- :meat_on_bone: violet lover
+- 🌱 I’m currently learning java
+- 📫 How to reach me: tsuirak@126.com
