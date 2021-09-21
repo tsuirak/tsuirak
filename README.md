@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 ### Hello 👋
 
 - 🌱 现在正在学习Java
-- 📫 联系方式：tsuirak@126.com/[tsuiraku.com](https://tsuiraku.com/)
+- 📫 联系方式
+  - 邮箱：tsuirak@126.com
+  - 网站：[tsuiraku.com](https://tsuiraku.com/)
