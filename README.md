@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Hello 👋
 
-- 🌱 现在正在学习Java
+- 🌱 已经摆烂了，大家加油吧
 - 📫 联系方式
   - 邮箱：tsuirak@126.com
   - 网站：[tsuiraku.com](https://tsuiraku.com/)
